@@ -1,0 +1,5 @@
+git clone https://github.com/umaporn-sup/1-2565-INT201-js-resources.git
+git remote –v
+git remote remove origin
+git remote add origin https://github.com/Kwanjirach/startup.git
+git push -u origin master
